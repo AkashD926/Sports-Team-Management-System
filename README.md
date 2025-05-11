@@ -1,9 +1,9 @@
-** Sports-Team-Management-System **
+ **Sports-Team-Management-System** 
 
 The Sport Team Management System is a database-driven application designed to streamline the management of sports teams, players, matches, and related activities. Developed using MySQL, this system facilitates efficient tracking and organization of various aspects of sports team operations.
 
 
-** Project Overview **
+**Project Overview** 
 
 The system encompasses the following key components:
 
@@ -18,7 +18,7 @@ The system encompasses the following key components:
 5) Scores: Tracks individual player scores and team performance in matches.
 
 
-**Database Structure **
+**Database Structure**
 
 The system utilizes a relational database schema with the following tables:
 
@@ -33,7 +33,7 @@ The system utilizes a relational database schema with the following tables:
 5) Scores: Tracks individual player scores for each match
 
 
-** Features **
+ **Features** 
 
 1) League Management: Create and manage different sports leagues.
 
@@ -46,7 +46,7 @@ The system utilizes a relational database schema with the following tables:
 5) Score Recording: Record individual player scores for each match.
 
 
-*SQL Queries **
+**SQL Queries** 
 
 
 1) Query join two table
